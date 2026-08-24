@@ -1,7 +1,7 @@
 # haiku about me
 
-working at [reken](https://reken.ai/)
+cooked up at [reken](https://reken.ai/)
 
-late nights crafting [debatecomps](https://www.debatecomps.com/) 
+back to school in waterloo
 
 [blog](https://probablyalex.com/) on occasion
